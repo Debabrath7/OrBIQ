@@ -1,4 +1,4 @@
-# OrbIQ – Prompt Engineering Sandbox
+# OrbIQ – Prompt Engineering
 
 OrbIQ is a modular Streamlit app designed to experiment with prompt engineering techniques for NLP tasks like:
 
@@ -8,7 +8,7 @@ OrbIQ is a modular Streamlit app designed to experiment with prompt engineering 
 
 Built using OpenAI’s GPT models with evaluation metrics included!
 
-## 🚀 Live Demo (Render)
+Live Demo (Render)
 
 You can deploy this app to [Render](https://render.com) in just a few clicks.  
 Start Command and Build Command are pre-configured using a `Procfile`.
